@@ -1,10 +1,6 @@
 # Ract-Native / Expo.io / Android
 
-Guide to debug in React-Native with Expo.io and physical devices (android)/ Debug con Reat-Native, Expo.io y Android (Dispositivo físico)
-
-##### English
-
-##### Español
+Debugging remoto con Reat-Native, Expo.io y Android (Dispositivo físico)
 
 ### 1.  Configura tu móvil:
 Si no lo has hecho [activa las opciones de programador y la depuración USB](https://github.com/maruos/maruos/wiki/USB-Debugging) en el móvil.

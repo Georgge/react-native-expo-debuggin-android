@@ -6,6 +6,8 @@ Debugging remoto con Reat-Native, Expo.io y Android (Dispositivo físico)
 Si no lo has hecho [activa las opciones de programador y la depuración USB](https://github.com/maruos/maruos/wiki/USB-Debugging) en el móvil.
     
 ### 2.  Allow-Control-Allow-Origin:
+
+En las ultimas versiones de expo se puede omitir.
     
 Instalá  [Allow-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi): * en Chrome o alguna extensión similar
 

@@ -61,10 +61,10 @@ Si aparece **device** en la columna de la derecha todo esta listo.
 
 ### 4.  Developer menu:
     
- 1. Ejecuta el siguiente comando desde la terminal del computador para abrir el menú de desarrollo en el móvil:
+ 1. Ejecuta tu proyecto con `exp start` y abre la app en expo (movil). Despues ejecuta el siguiente comando desde la terminal del computador para abrir el menú de desarrollo en el móvil:
 	>    adb shell input keyevent 82
  2. Selecciona '**Remote Js Debugging**' en el menú que despliega el móvil.
  3. Abre el [debugger](http://localhost:19001/debugger-ui/) en chrome preciona **Ctrl⇧J** (control/shift/J).
- 4. Ejecuta tu proyecto con `exp start` (opcionalmente puedes ejecutar `exp start --lan`).
+ 4. Si es necesario ejecuta tu proyecto con `exp start` (opcionalmente puedes ejecutar `exp start --lan`).
  5. Abre de forma manual la app de expo en tu dispositivo android.
  6. Listo! ahora deberías poder hacer debugging desde Chrome con JS.
